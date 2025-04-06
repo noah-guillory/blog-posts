@@ -1,2 +1,12 @@
-# My First Post
-Hello, world!
+---
+title: My First Post
+status: draft
+---
+
+hello
+
+# yeet
+
+```js
+rm -rf /
+```
